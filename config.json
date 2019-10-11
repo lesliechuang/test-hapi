@@ -1,0 +1,7 @@
+{
+    "dbconnect":"mysql://manager:Asdf1234@10.1.11.126:3306/vehicle_affair?charset=utf8mb4",
+    "db":"test",
+    "username":"root",
+    "password":"Asdf1234",
+    "host":"10.1.11.122"
+}
