@@ -1,0 +1,22 @@
+{
+  "name": "VersionService",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "log4js": "^5.1.0",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.19.4"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.8"
+  }
+}
